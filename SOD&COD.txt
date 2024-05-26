@@ -1,0 +1,147 @@
+### COCO
+在COD-10K和COCO数据集中，以下是重合的子类：
+
+cat - 存在于COD-10K的Terrestrial类和COCO的animal类中。
+dog - 存在于COD-10K的Terrestrial类和COCO的animal类中。
+bird - 存在于COD-10K的Flying类和COCO的animal类中。
+
+
+
+### ImageNet-1K
+在ImageNet-1K的类别中，以下类别与ImageNet-10K中提到的类别有对应关系：
+
+'3':'crab' 可以对应于 ImageNet-1K 中的：
+
+n01978287 "Dungeness crab, Cancer magister"
+n01978455 "rock crab, Cancer irroratus"
+n01980166 "fiddler crab"
+n01981276 "king crab, Alaska crab, Alaskan king crab, Alaska king crab, Paralithodes camtschatica"
+
+'4':'crocodile' 可以对应于 ImageNet-1K 中的：
+n01697457 "African crocodile, Nile crocodile, Crocodylus niloticus"
+n01698640 "American alligator, Alligator mississipiensis"
+
+'8':'frogFish' 可以对应于 ImageNet-1K 中的：
+n01443537 "goldfish, Carassius auratus"
+
+'18':'starFish' 可以对应于 ImageNet-1K 中的：
+n02317335 "starfish, sea star"
+
+'19':'stingaree' 可以对应于 ImageNet-1K 中的：
+n01498041 "stingray"
+
+
+'23':'cat' 匹配到 'n02123159':'tiger cat', 'n02123394':'Persian cat', 'n02123597':'Siamese cat, Siamese', 'n02124075':'Egyptian cat'
+'25':'centipede' 匹配到 'n01784675':'centipede'
+'26':'chameleon' 匹配到 'n01694178':'African chameleon, Chamaeleo chamaeleon'
+'27':'cheetah' 匹配到 'n02130308':'cheetah, chetah, Acinonyx jubatus'
+'29':'dog' 匹配到多个类别，包括 'n02085620':'Chihuahua' 到 'n02116738':'African hunting dog, hyena dog, Cape hunting dog, Lycaon pictus'
+'30':'duck' 匹配到 'n01847000':'drake'
+'31':'gecko' 匹配到 'n01675722':'banded gecko'
+'32':'giraffe' 匹配到 'n02439033':'giraffe, camelopard, Giraffa camelopardalis'
+
+
+'20':'turtle' 在 ImageNet-1K 中的匹配可能包括：
+'n01664065': 'loggerhead, loggerhead turtle, Caretta caretta'
+'n01665541': 'leatherback turtle, leatherback, leathery turtle, Dermochelys coriacea'
+
+'21':'ant' 在 ImageNet-1K 中的匹配为：
+'n02219486': 'ant, emmet, pismire'
+
+'22':'bug' 在 ImageNet-1K 中的匹配可能包括：
+'n02165105': 'tiger beetle'
+'n02165456': 'ladybug, ladybeetle, lady beetle, ladybird, ladybird beetle'
+'n02229544': 'cricket'
+
+'24':'caterpillar' 在 ImageNet-1K 中的匹配为：
+'n02206856': 'caterpillar'
+
+'28':'deer' 在 ImageNet-1K 中的匹配为：
+'n02422699': 'impala, Aepyceros melampus'
+
+
+'33':'grouse' 在 ImageNet-1K 中的匹配为：
+'n01797886': 'ruffed grouse, partridge, Bonasa umbellus'
+'n01798484': 'prairie chicken, prairie grouse, prairie fowl'
+
+
+'36':'leopard' - 直接匹配到 "leopard, Panthera pardus"。
+'37':'lion' - 直接匹配到 "lion, king of beasts, Panthera leo"。
+'38':'lizard' - 匹配多个，例如 "common iguana, iguana, Iguana iguana"，"gecko" 等。
+'39':'monkey' - 匹配多个，如 "guenon, guenon monkey"，"macaque" 等。
+'40':'rabbit' - 直接匹配到 "wood rabbit, cottontail, cottontail rabbit" 等。
+'44':'snake' - 匹配多个，如 "ringneck snake, ring-necked snake, ring snake"，"king snake, kingsnake" 等。
+'45':'spider' - 匹配多个，如 "black and gold garden spider, Argiope aurantia"，"tarantula" 等。
+'46':'stickInsect' - 直接匹配到 "walking stick, walkingstick, stick insect"。
+
+'47': 'tiger' matches:
+"n02129604": "tiger, Panthera tigris"
+
+'48': 'wolf' matches:
+"n02114367": "timber wolf, grey wolf, gray wolf, Canis lupus"
+"n02114548": "white wolf, Arctic wolf, Canis lupus tundrarum"
+"n02114712": "red wolf, maned wolf, Canis rufus, Canis niger"
+"n02114855": "coyote, prairie wolf, brush wolf, Canis latrans"
+
+
+'49': 'worm' matches:
+"n01930112": "nematode, nematode worm, roundworm"
+
+
+'51': 'bee' matches:
+"n02206856": "bee"
+
+'52': 'beetle' matches:
+"n02165105": "tiger beetle"
+"n02165456": "ladybug, ladybeetle, lady beetle, ladybird, ladybird beetle"
+"n02167151": "ground beetle, carabid beetle"
+"n02168699": "long-horned beetle, longicorn, longicorn beetle"
+"n02169497": "leaf beetle, chrysomelid"
+"n02172182": "dung beetle"
+"n02174001": "rhinoceros beetle"
+"n02177972": "weevil"
+
+'53': 'bird' matches:
+"n01514668": "cock"
+"n01558993": "robin, American robin, Turdus migratorius"
+"n02058221": "albatross, mollymawk"
+
+
+'54': 'bittern' matches:
+"n02011460": "bittern"
+
+'55': 'butterfly' matches:
+"n02276258": "admiral"
+"n02277742": "ringlet, ringlet butterfly"
+"n02279972": "monarch, monarch butterfly, milkweed butterfly, Danaus plexippus"
+"n02280649": "cabbage butterfly"
+"n02281406": "sulphur butterfly, sulfur butterfly"
+"n02281787": "lycaenid, lycaenid butterfly"
+
+'56': 'cicada' matches:
+"n02256656": "cicada, cicala"
+
+'57': 'dragonfly' matches:
+"n02268443": "dragonfly, darning needle, devil's darning needle, sewing needle, snake feeder, snake doctor, mosquito hawk, skeeter hawk"
+
+'59': 'grasshopper' matches:
+"n02226429": "grasshopper, hopper"
+
+'60': 'heron' matches:
+"n02009912": "American egret, great white heron, Egretta albus"
+
+'62': 'mantis' matches:
+"n02236044": "mantis, mantid"
+
+'64': 'moth' matches:
+None specifically mentioned as moth in ImageNet-1K.
+
+'65': 'owl' matches:
+"n01622779": "great grey owl, great gray owl, Strix nebulosa"
+
+
+'67': 'frog' matches:
+"n01641577": "bullfrog, Rana catesbeiana"
+
+'68': 'toad' matches:
+"n01644900": "tailed frog, bell toad, ribbed toad, tailed toad, Ascaphus trui"

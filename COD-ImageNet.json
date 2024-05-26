@@ -1,0 +1,157 @@
+{
+    "crab": [
+        "Dungeness crab, Cancer magister",
+        "rock crab, Cancer irroratus",
+        "fiddler crab",
+        "king crab, Alaska crab, Alaskan king crab, Alaska king crab, Paralithodes camtschatica"
+    ],
+    "crocodile": [
+        "African crocodile, Nile crocodile, Crocodylus niloticus",
+        "American alligator, Alligator mississipiensis"
+    ],
+    "frogFish": [
+        "goldfish, Carassius auratus"
+    ],
+    "starFish": [
+        "starfish, sea star"
+    ],
+    "stingaree": [
+        "stingray"
+    ],
+    "cat": [
+        "tiger cat",
+        "Persian cat",
+        "Siamese cat, Siamese",
+        "Egyptian cat"
+    ],
+    "centipede": [
+        "centipede"
+    ],
+    "chameleon": [
+        "African chameleon, Chamaeleo chamaeleon"
+    ],
+    "cheetah": [
+        "cheetah, chetah, Acinonyx jubatus"
+    ],
+    "dog": [
+        "Chihuahua",
+        "African hunting dog, hyena dog, Cape hunting dog, Lycaon pictus"
+    ],
+    "duck": [
+        "drake"
+    ],
+    "gecko": [
+        "banded gecko"
+    ],
+    "turtle": [
+        "loggerhead, loggerhead turtle, Caretta caretta",
+        "leatherback turtle, leatherback, leathery turtle, Dermochelys coriacea"
+    ],
+    "ant": [
+        "ant, emmet, pismire"
+    ],
+    "bug": [
+        "tiger beetle",
+        "ladybug, ladybeetle, lady beetle, ladybird, ladybird beetle",
+        "cricket"
+    ],
+    "deer": [
+        "impala, Aepyceros melampus"
+    ],
+    "grouse": [
+        "ruffed grouse, partridge, Bonasa umbellus",
+        "prairie chicken, prairie grouse, prairie fowl"
+    ],
+    "leopard": [
+        "leopard, Panthera pardus"
+    ],
+    "lion": [
+        "lion, king of beasts, Panthera leo"
+    ],
+    "lizard": [
+        "common iguana, iguana, Iguana iguana"
+    ],
+    "monkey": [
+        "guenon, guenon monkey",
+        "macaque"
+    ],
+    "rabbit": [
+        "wood rabbit, cottontail, cottontail rabbit"
+    ],
+    "snake": [
+        "ringneck snake, ring-necked snake, ring snake",
+        "king snake, kingsnake"
+    ],
+    "spider": [
+        "black and gold garden spider, Argiope aurantia",
+        "tarantula"
+    ],
+    "stickInsect": [
+        "walking stick, walkingstick, stick insect"
+    ],
+    "tiger": [
+        "tiger, Panthera tigris"
+    ],
+    "wolf": [
+        "timber wolf, grey wolf, gray wolf, Canis lupus",
+        "white wolf, Arctic wolf, Canis lupus tundrarum",
+        "red wolf, maned wolf, Canis rufus, Canis niger",
+        "coyote, prairie wolf, brush wolf, Canis latrans"
+    ],
+    "worm": [
+        "nematode, nematode worm, roundworm"
+    ],
+    "bee": [
+        "bee"
+    ],
+    "beetle": [
+        "tiger beetle",
+        "ladybug, ladybeetle, lady beetle, ladybird, ladybird beetle",
+        "ground beetle, carabid beetle",
+        "long-horned beetle, longicorn, longicorn beetle",
+        "leaf beetle, chrysomelid",
+        "dung beetle",
+        "rhinoceros beetle",
+        "weevil"
+    ],
+    "bird": [
+        "cock",
+        "robin, American robin, Turdus migratorius",
+        "albatross, mollymawk"
+    ],
+    "bittern": [
+        "bittern"
+    ],
+     "butterfly": [
+        "admiral",
+        "ringlet, ringlet butterfly",
+        "monarch, monarch butterfly, milkweed butterfly, Danaus plexippus",
+        "cabbage butterfly",
+        "sulphur butterfly, sulfur butterfly",
+        "lycaenid, lycaenid butterfly"
+    ],
+    "cicada": [
+        "cicada, cicala"
+    ],
+    "dragonfly": [
+        "dragonfly, darning needle, devil's darning needle, sewing needle, snake feeder, snake doctor, mosquito hawk, skeeter hawk"
+    ],
+    "grasshopper": [
+        "grasshopper, hopper"
+    ],
+    "heron": [
+        "American egret, great white heron, Egretta albus"
+    ],
+    "mantis": [
+        "mantis, mantid"
+    ],
+    "owl": [
+        "great grey owl, great gray owl, Strix nebulosa"
+    ],
+    "frog": [
+        "bullfrog, Rana catesbeiana"
+    ],
+    "toad": [
+        "tailed frog, bell toad, ribbed toad, tailed toad, Ascaphus trui"
+    ]
+}
